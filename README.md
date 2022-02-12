@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/slymny/slymny/blob/main/welcome_hero.png?raw=true" width="100%" title="Welcome" alt="welcome">
+</p>
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning JavaScript
