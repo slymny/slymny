@@ -53,7 +53,7 @@ Hi, I am Suleyman.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slymny&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=slymny&show_icons=true&line_height=30)
 
 
 ---
