@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/slymny/slymny/blob/main/welcome_hero.png?raw=true" width="100%" title="Welcome" alt="welcome">
+  <img src="https://github.com/slymny/slymny/blob/main/welcome%20hero.jpeg?raw=true" width="100%" title="Welcome" alt="welcome">
 </p>
 
 Hi, I am Suleyman. 
