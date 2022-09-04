@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 Hi, I am Suleyman. 
-- 🌱 Energetic Full Stack Web Developer ‘in love’ with JavaScript.
+- 🌱 Energetic Full Stack Web Developer.
 
-- ⚡ I really love to challange myself.
+- ⚡ I really love to challenge myself.
 
 - 🔭 I’m currently working on Web Development
 
